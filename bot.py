@@ -1,10 +1,8 @@
 import telebot
 import math
 
-
-
-token = '5131588339:AAEFrNyC6wLySA7ZD_Nt8SmUNIs3ipE5qEA'
-bot = telebot.TeleBot(token)
+TOKEN = '5232896847:AAHyRRFhgQuqoUBJq4ix_yNASGahqlgt6gU'
+bot = telebot.TeleBot(TOKEN)
 langNumber1 = [0]
 
 def log(message):
